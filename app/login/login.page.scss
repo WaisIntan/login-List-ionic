@@ -1,0 +1,24 @@
+ion-row{
+  --width: auto;
+	background: #9fc4fc;
+	/*meletakkan form ke tengah*/
+	--margin: auto;
+	--padding: auto;
+}
+ion-item{
+      //  --background: #9fc4fc;
+    --color: #000000;
+  // --padding: 0 10px;
+    --margin: auto;
+    --border: none;
+    --cursor: pointer;
+}
+ion-button{
+--background: #043150;
+--color: #ffffff;
+//--padding: 14px 20px;
+--margin: auto;
+--border: none;
+--cursor: pointer;
+
+}
